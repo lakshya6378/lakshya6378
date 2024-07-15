@@ -11,10 +11,14 @@
     <img src="https://img.shields.io/badge/-agarwallakshya99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agarwallakshya99@gmail.com">
    <a/>
 </p>
+
+     
 -------
+
 -  ⚡ Lakshya here, persuing bachleor's degree currently. 
 -  🍀 I'm presently learning NEXTJS and NODEJS.
 -  💭 Feel free to ask me about JavaScript, React, MARVEL.
 -  🍎 Know more about me at [lakshyaagarwal.netlify.app](https://lakshyaagarwal.netlify.app/).
 -  ⚽ I like to watch thriller movies and series .
+
 -------
