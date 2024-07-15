@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://stackoverflow.com/users/21215843/lakshya-agarwal">
-    <img src="https://img.shields.io/badge/-Lakshya-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/21215843/lakshya-agarwal">
+    <img src="https://img.shields.io/badge/-@Lakshya-f48024?style=flat-square&labelColor=f48024&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/21215843/lakshya-agarwal">
    <a/>
   <a href="https://www.linkedin.com/in/lakshya6378/">
     <img src="https://img.shields.io/badge/-lakshya6378-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakshya6378/">
